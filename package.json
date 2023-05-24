@@ -1,7 +1,7 @@
 {
   "name": "leaderboad",
   "version": "1.0.0",
-  "description": "",
+  "description": "Hello, I am:",
   "private": true,
   "scripts": {
     "test": "jest",
@@ -33,5 +33,14 @@
   "dependencies": {
     "babel-loader": "^9.1.2",
     "lodash": "^4.17.21"
-  }
+  },
+  "main": "webpack.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faisalakb/Leaderboard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/faisalakb/Leaderboard/issues"
+  },
+  "homepage": "https://github.com/faisalakb/Leaderboard#readme"
 }
